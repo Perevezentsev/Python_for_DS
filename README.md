@@ -1,2 +1,2 @@
 # Python_for_DS
-Homeworks from Python_for_DS cours
+Homeworks from Python_for_DS course
